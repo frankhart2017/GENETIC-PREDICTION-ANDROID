@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Genetic Algorithms</string>
+    <string name="enter_text">Enter text</string>
+    <string name="run_algorithm">Run algorithm</string>
+</resources>
